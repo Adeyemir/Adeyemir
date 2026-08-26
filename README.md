@@ -11,14 +11,15 @@ Software Engineer specializing in Web3 development, AI agent infrastructure, and
 * Website: [0xade.dev](https://0xade.dev)
 
 ### Tech Stack
-* **Languages:** TypeScript, JavaScript, Python, Solidity
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend & Web3:** Node.js, Express, Foundry, Circle SDKs, LangGraph
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Featured Projects
 * **Arcade:** A peer-to-peer decentralized marketplace for listing, renting, and monetizing AI agents via smart contracts.
 * **Xcrow:** Trustless USDC escrow protocol for the AI agent economy.
 * **arc-payment-starter:** Starter kit for building stablecoin payment flows.
-
-### Overview
-[![Ade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeyemir&show_icons=false&theme=radium)](https://github.com/Adeyemir)
