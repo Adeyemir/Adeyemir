@@ -18,8 +18,3 @@ Software Engineer specializing in Web3 development, AI agent infrastructure, and
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Featured Projects
-* **Arcade:** A peer-to-peer decentralized marketplace for listing, renting, and monetizing AI agents via smart contracts.
-* **Xcrow:** Trustless USDC escrow protocol for the AI agent economy.
-* **arc-payment-starter:** Starter kit for building stablecoin payment flows.
