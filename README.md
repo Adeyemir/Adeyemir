@@ -4,7 +4,7 @@ Software Engineer specializing in Web3 development, AI agent infrastructure, and
 
 ### Current Focus
 * Building decentralized applications and escrow protocols on EVM-compatible networks.
-* Agentic commerce, smart contract integrations, and wallet infrastructure.
+* Stablecoin finance, Agentic commerce, smart contract integrations, and wallet infrastructure.
 
 ### Contact
 * Twitter: [@_OxAde](https://twitter.com/_OxAde)
