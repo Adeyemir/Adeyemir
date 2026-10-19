@@ -3,7 +3,7 @@
 Software Engineer specializing in Web3 development, AI agent infrastructure, and full-stack applications.
 
 ### Current Focus
-* Building decentralized applications and escrow protocols on EVM-compatible networks.
+* Building decentralized applications on EVM-compatible networks.
 * Stablecoin finance, Agentic commerce, smart contract integrations, and wallet infrastructure.
 
 ### Contact
